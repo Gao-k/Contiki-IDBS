@@ -1,0 +1,14 @@
+using saved target 'z1'
+../../tools/sky/serialdump-linux -b115200 /dev/ttyUSB0
+connecting to /dev/ttyUSB0 (115200) [OK]
+Rime started with address 1.0
+MAC 01:00:00:00:00:00:00:00 Ref ID: 4258
+Contiki-2.6-2103-g6ac939b started. Node id is set to 1.
+I am sink, I will broadcast grade.
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 26
+Starting 'Hello world process'
+Hello, world
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.

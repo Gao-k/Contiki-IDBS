@@ -1,0 +1,23 @@
+make hello-world.upload && make z1-reset && make login MOTES=/dev/ttyUSB0
+
+z1.0:
+make z1-reset MOTES=/dev/ttyUSB0 && make login MOTES=/dev/ttyUSB0 2>&1|tee logs/adc_18_fa_1s/sink.txt
+
+z2.0:
+make z1-reset MOTES=/dev/ttyUSB1 && make login MOTES=/dev/ttyUSB1 2>&1|tee logs/adc_18_fa_1s/z2.txt
+
+z3.0:
+make z1-reset MOTES=/dev/ttyUSB2 && make login MOTES=/dev/ttyUSB2 2>&1|tee logs/adc_18_fa_1s/z3.txt
+
+z3.0:
+make z1-reset MOTES=/dev/ttyUSB2 && make login MOTES=/dev/ttyUSB2 2>&1|tee logs/adc_18_fa_1s/z3.txt
+
+micaz:
+make hello-world.upload TARGET=micaz PORT=/dev/ttyUSB0
+
+micaz3.0:
+cat /dev/ttyUSB3 2>&1 | tee logs/micaz3.txt
+
+micaz4.0:
+cat /dev/ttyUSB4 2>&1 | tee logs/micaz4.txt
+

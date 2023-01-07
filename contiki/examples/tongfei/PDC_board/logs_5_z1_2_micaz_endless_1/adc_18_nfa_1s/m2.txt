@@ -1,0 +1,1414 @@
+Rime started with address 158.170
+MAC 9e:aa:00:00:00:00:00:00
+
+************************************************
+RTIMER_SECOND = 28800. F_CPU=7372800.
+RTIMER_ARCH_PRESCALER=256.
+DURSLOT = 5274.(0.1831 s).
+DURSLEEP = 100206.
+DURCYCLE = 105480 .(3.6624 s).
+MAX_CLOCK_DRIFT = WAKEUP_ADVANCE_TIME = 288 (0.0033 s).
+PERIODIC_BCAST_CYCLES_SENSOR = 34471939.
+PERIODIC_BCAST_CYCLES_SINK = 38207491.
+MAX_CYCLE_COUNTER = 24576.
+MAX_COUNT_NO_RTS_CTS = 65535.
+MAX_CHILD_NUM = 10.
+MAX_TRY_TO_FIND_PARENT = 3.
+
+**********Below is Related Settings**********
+PRIMAC_CONF_COMPOWER = 1.
+PRIMAC_CONF_COMPOWER_SUPPORT = 1.
+SF = 18.
+PRI_SYNC_SUPPORT = 1.
+RANDOM_DRIFT_IN_COOJA_SUPPORT = 0.
+ADCSC_SUPPORT = 1.
+DATA_TX_SUPPORT = 1.
+CYCLES_PER_PACKET = 1.
+DATA_INTERVAL = 1.
+RETX_LIMIT = 6.
+TOTAL_DATA_NUM = -1.
+MAX_DATA_QUEUE_BUFS = 10.
+PROC_GRADE_BASED_ON_ADDR_SUPPORT = 1.
+NODES_NUM_PER_GRADE = 2.
+ADDRESS_FREE_SUPPORT = 0.
+IS_COOJA_SIM = 0.
+CROSS_PLATFORM_SUPPORT = 1.
+************************************************
+
+My address is 158.170.
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 26
+Contiki-3.x-2125-g5d67a61 started. Node id 0
+Hello, world
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 2 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+ P 0 0 0 0
+PT [5 0 6 0 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 130 1]
+ P 0 0 0 0
+PT [5 0 1 130 1]
+ P 0 0 0 0
+PT [5 0 0 63 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 86 1]
+ P 0 0 0 0
+PT [5 0 2 86 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 149 1]
+ P 0 0 0 0
+PT [5 0 1 149 1]
+ P 0 0 0 0
+PT [5 0 2 149 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 149 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 0 121 1]
+ P 0 0 0 0
+PT [5 0 1 121 1]
+ P 0 0 0 0
+PT [5 0 2 121 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 121 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 122 1]
+ P 0 0 0 0
+PT [5 0 1 122 1]
+ P 0 0 0 0
+PT [5 0 2 122 1]
+ P 0 0 0 0
+PT [5 0 3 122 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 121 1]
+ P 0 0 0 0
+PT [5 0 1 121 1]
+ P 0 0 0 0
+PT [5 0 2 121 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 121 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 122 1]
+ P 0 0 0 0
+PT [5 0 1 122 1]
+ P 0 0 0 0
+PT [5 0 2 122 1]
+ P 0 0 0 0
+PT [5 0 3 122 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 121 1]
+ P 0 0 0 0
+PT [5 0 1 121 1]
+ P 0 0 0 0
+PT [5 0 2 121 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 121 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 121 1]
+ P 0 0 0 0
+PT [5 0 1 121 1]
+ P 0 0 0 0
+PT [5 0 2 121 1]
+ P 0 0 0 0
+PT [5 0 3 121 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 121 1]
+ P 0 0 0 0
+PT [5 0 1 121 1]
+ P 0 0 0 0
+PT [5 0 2 121 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 121 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 0 122 1]
+ P 0 0 0 0
+PT [5 0 1 122 1]
+ P 0 0 0 0
+PT [5 0 2 122 1]
+ P 0 0 0 0
+PT [5 0 3 122 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 121 1]
+ P 0 0 0 0
+PT [5 0 1 121 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 63 1]
+ P 0 0 0 0
+PT [5 0 3 86 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 4 86 1]
+ P 0 0 0 0
+PT [5 0 5 86 1]
+ P 0 0 0 0
+PT [5 0 6 86 1]
+ P 0 0 0 0
+PT [5 0 7 86 1]
+ P 0 0 0 0
+PT [5 0 8 86 1]
+ P 0 0 0 0
+PT [5 0 9 86 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 0 238 1]
+ P 0 0 0 0
+PT [5 0 1 238 1]
+ P 0 0 0 0
+PT [5 0 0 -32 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 -9 1]
+ P 0 0 0 0
+PT [5 0 2 -9 1]
+ P 0 0 0 0
+PT [5 0 3 31 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 54 1]
+ P 0 0 0 0
+PT [5 0 1 54 1]
+ P 0 0 0 0
+PT [5 0 2 94 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 117 1]
+ P 0 0 0 0
+PT [5 0 4 117 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 181 1]
+ P 0 0 0 0
+PT [5 0 1 181 1]
+ P 0 0 0 0
+PT [5 0 0 64 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 87 1]
+ P 0 0 0 0
+PT [5 0 2 87 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 150 1]
+ P 0 0 0 0
+PT [5 0 1 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 64 1]
+ P 0 0 0 0
+PT [5 0 1 87 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 87 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 150 1]
+ P 0 0 0 0
+PT [5 0 1 150 1]
+ P 0 0 0 0
+PT [5 0 0 63 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 87 1]
+ P 0 0 0 0
+PT [5 0 2 87 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 150 1]
+ P 0 0 0 0
+PT [5 0 1 150 1]
+ P 0 0 0 0
+PT [5 0 0 63 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 86 1]
+ P 0 0 0 0
+PT [5 0 2 86 1]
+ P 0 0 0 0
+PT [5 0 3 86 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 0 168 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 168 1]
+ P 0 0 0 0
+PT [5 0 0 64 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 87 1]
+ P 0 0 0 0
+PT [5 0 2 87 1]
+ P 0 0 0 0
+PT [5 0 3 87 1]
+ P 0 0 0 0
+PT [5 0 4 87 1]
+ P 0 0 0 0
+PT [5 0 5 87 1]
+ P 0 0 0 0
+PT [5 0 6 87 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 7 87 1]
+ P 0 0 0 0
+PT [5 0 8 87 1]
+ P 0 0 0 0
+PT [5 0 9 87 1]
+ P 0 0 0 0
+PT [5 0 10 87 1]
+ P 0 0 0 0
+PT [5 0 11 87 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 310 1]
+ P 0 0 0 0
+PT [5 0 1 310 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 63 1]
+ P 0 0 0 0
+PT [5 0 1 87 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 87 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 150 1]
+ P 0 0 0 0
+PT [5 0 1 150 1]
+ P 0 0 0 0
+PT [5 0 0 63 1]
+ P 0 0 0 0
+PT [5 0 1 86 1]
+ P 0 0 0 0
+PT [5 0 2 86 1]
+ P 0 0 0 0
+PT [5 0 3 86 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 167 1]
+ P 0 0 0 0
+PT [5 0 1 167 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 63 1]
+ P 0 0 0 0
+PT [5 0 1 87 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 87 1]
+ P 0 0 0 0
+PT [5 0 3 87 1]
+ P 0 0 0 0
+PT [5 0 4 87 1]
+ P 0 0 0 0
+PT [5 0 5 87 1]
+ P 0 0 0 0
+PT [5 0 6 87 1]
+ P 0 0 0 0
+PT [5 0 7 87 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 8 87 1]
+ P 0 0 0 0
+PT [5 0 9 87 1]
+ P 0 0 0 0
+PT [5 0 10 87 1]
+ P 0 0 0 0
+PT [5 0 11 87 1]
+ P 0 0 0 0
+PT [5 0 12 87 1]
+ P 0 0 0 0
+PT [5 0 13 87 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 14 87 1]
+ P 0 0 0 0
+PT [5 0 15 87 1]
+ P 0 0 0 0
+PT [5 0 16 87 1]
+ P 0 0 0 0
+PT [5 0 17 87 1]
+ P 0 0 0 0
+PT [5 0 18 87 1]
+ P 0 0 0 0
+PT [5 0 19 87 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 20 87 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 0 468 1]
+ P 0 0 0 0
+PT [5 0 1 468 1]
+ P 0 0 0 0
+PT [5 0 0 64 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 86 1]
+ P 0 0 0 0
+PT [5 0 2 86 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 150 1]
+ P 0 0 0 0
+PT [5 0 1 150 1]
+ P 0 0 0 0
+PT [5 0 2 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 150 1]
+ P 0 0 0 0
+PT [5 0 4 150 1]
+ P 0 0 0 0
+PT [5 0 5 150 1]
+ P 0 0 0 0
+PT [5 0 6 150 1]
+ P 0 0 0 0
+PT [5 0 7 150 1]
+ P 0 0 0 0
+PT [5 0 8 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 9 150 1]
+ P 0 0 0 0
+PT [5 0 10 150 1]
+ P 0 0 0 0
+PT [5 0 11 150 1]
+ P 0 0 0 0
+PT [5 0 12 150 1]
+ P 0 0 0 0
+PT [5 0 13 150 1]
+ P 0 0 0 0
+PT [5 0 14 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 15 150 1]
+ P 0 0 0 0
+PT [5 0 16 150 1]
+ P 0 0 0 0
+PT [5 0 17 150 1]
+ P 0 0 0 0
+PT [5 0 18 150 1]
+ P 0 0 0 0
+PT [5 0 19 150 1]
+ P 0 0 0 0
+PT [5 0 20 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 21 150 1]
+ P 0 0 0 0
+PT [5 0 22 150 1]
+ P 0 0 0 0
+PT [5 0 23 150 1]
+ P 0 0 0 0
+PT [5 0 24 150 1]
+ P 0 0 0 0
+PT [5 0 25 150 1]
+ P 0 0 0 0
+PT [5 0 26 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 27 150 1]
+ P 0 0 0 0
+PT [5 0 28 150 1]
+ P 0 0 0 0
+PT [5 0 29 150 1]
+ P 0 0 0 0
+PT [5 0 30 150 1]
+ P 0 0 0 0
+PT [5 0 31 150 1]
+ P 0 0 0 0
+PT [5 0 32 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 33 150 1]
+ P 0 0 0 0
+PT [5 0 34 150 1]
+ P 0 0 0 0
+PT [5 0 35 150 1]
+ P 0 0 0 0
+PT [5 0 36 150 1]
+ P 0 0 0 0
+PT [5 0 37 150 1]
+ P 0 0 0 0
+PT [5 0 38 150 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 39 150 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 56 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 84 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 56 1]
+ P 0 0 0 0
+PT [5 0 0 84 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 -13 1]
+ P 0 0 0 0
+PT [5 0 1 15 1]
+ P 0 0 0 0
+PT [5 0 2 42 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 70 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 27 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 56 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 83 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 57 1]
+ P 0 0 0 0
+PT [5 0 0 84 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 52 1]
+ P 0 0 0 0
+PT [5 0 4 74 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 56 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 84 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 82 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 26 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 84 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 56 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 56 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 56 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 56 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 84 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 82 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 54 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 29 1]
+ P 0 0 0 0
+PT [5 0 3 56 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 84 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 56 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 56 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 84 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 28 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 57 1]
+ P 0 0 0 0
+PT [5 0 0 84 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 27 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 28 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 2 27 1]
+ P 0 0 0 0
+PT [5 0 3 55 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 0 83 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 0 133 1]
+ P 0 0 0 0
+PT [5 0 1 133 1]
+ P 0 0 0 0
+PT [5 0 2 133 1]
+ P 0 0 0 0
+PT [5 0 3 133 1]
+ P 0 0 0 0
+PT [5 0 4 133 1]
+ P 0 0 0 0
+PT [5 0 5 133 1]
+ P 0 0 0 0
+PT [5 0 6 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 7 133 1]
+ P 0 0 0 0
+PT [5 0 8 133 1]
+ P 0 0 0 0
+PT [5 0 9 133 1]
+ P 0 0 0 0
+PT [5 0 10 133 1]
+ P 0 0 0 0
+PT [5 0 11 133 1]
+ P 0 0 0 0
+PT [5 0 12 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 13 133 1]
+ P 0 0 0 0
+PT [5 0 14 133 1]
+ P 0 0 0 0
+PT [5 0 15 133 1]
+ P 0 0 0 0
+PT [5 0 16 133 1]
+ P 0 0 0 0
+PT [5 0 17 133 1]
+ P 0 0 0 0
+PT [5 0 18 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 19 133 1]
+ P 0 0 0 0
+PT [5 0 20 133 1]
+ P 0 0 0 0
+PT [5 0 21 133 1]
+ P 0 0 0 0
+PT [5 0 22 133 1]
+ P 0 0 0 0
+PT [5 0 23 133 1]
+ P 0 0 0 0
+PT [5 0 24 133 1]
+ P 0 0 0 0
+PT [5 0 25 133 1]
+ P 0 0 0 0
+PT [5 0 26 133 1]
+ P 0 0 0 0
+PT [5 0 27 133 1]
+ P 0 0 0 0
+PT [5 0 28 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 29 133 1]
+ P 0 0 0 0
+PT [5 0 30 133 1]
+ P 0 0 0 0
+PT [5 0 31 133 1]
+ P 0 0 0 0
+PT [5 0 32 133 1]
+ P 0 0 0 0
+PT [5 0 33 133 1]
+ P 0 0 0 0
+PT [5 0 34 133 1]
+ P 0 0 0 0
+PT [5 0 35 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 36 133 1]
+ P 0 0 0 0
+PT [5 0 37 133 1]
+ P 0 0 0 0
+PT [5 0 38 133 1]
+ P 0 0 0 0
+PT [5 0 39 133 1]
+ P 0 0 0 0
+PT [5 0 40 133 1]
+ P 0 0 0 0
+PT [5 0 41 133 1]
+ P 0 0 0 0
+PT [5 0 42 133 1]
+ P 0 0 0 0
+PT [5 0 43 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 44 133 1]
+ P 0 0 0 0
+PT [5 0 45 133 1]
+ P 0 0 0 0
+PT [5 0 46 133 1]
+ P 0 0 0 0
+PT [5 0 47 133 1]
+ P 0 0 0 0
+PT [5 0 48 133 1]
+ P 0 0 0 0
+PT [5 0 49 133 1]
+ P 0 0 0 0
+PT [5 0 50 133 1]
+ P 0 0 0 0
+PT [5 0 51 133 1]
+ P 0 0 0 0
+PT [5 0 52 133 1]
+ P 0 0 0 0
+PT [5 0 53 133 1]
+ P 0 0 0 0
+PT [5 0 54 133 1]
+ P 0 0 0 0
+PT [5 0 55 133 1]
+ P 0 0 0 0
+PT [5 0 56 133 1]
+ P 0 0 0 0
+PT [5 0 57 133 1]
+ P 0 0 0 0
+PT [5 0 58 133 1]
+ P 0 0 0 0
+PT [5 0 59 133 1]
+ P 0 0 0 0
+PT [5 0 60 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 61 133 1]
+ P 0 0 0 0
+PT [5 0 62 133 1]
+ P 0 0 0 0
+PT [5 0 63 133 1]
+ P 0 0 0 0
+PT [5 0 64 133 1]
+ P 0 0 0 0
+PT [5 0 65 133 1]
+ P 0 0 0 0
+PT [5 0 66 133 1]
+ P 0 0 0 0
+PT [5 0 67 133 1]
+ P 0 0 0 0
+PT [5 0 68 133 1]
+ P 0 0 0 0
+PT [5 0 69 133 1]
+ P 0 0 0 0
+PT [5 0 70 133 1]
+ P 0 0 0 0
+PT [5 0 71 133 1]
+ P 0 0 0 0
+PT [5 0 72 133 1]
+ P 0 0 0 0
+PT [5 0 73 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 74 133 1]
+ P 0 0 0 0
+PT [5 0 75 133 1]
+ P 0 0 0 0
+PT [5 0 76 133 1]
+ P 0 0 0 0
+PT [5 0 77 133 1]
+ P 0 0 0 0
+PT [5 0 78 133 1]
+ P 0 0 0 0
+PT [5 0 79 133 1]
+ P 0 0 0 0
+PT [5 0 80 133 1]
+ P 0 0 0 0
+PT [5 0 81 133 1]
+ P 0 0 0 0
+PT [5 0 82 133 1]
+ P 0 0 0 0
+PT [5 0 83 133 1]
+ P 0 0 0 0
+PT [5 0 84 133 1]
+ P 0 0 0 0
+PT [5 0 85 133 1]
+ P 0 0 0 0
+PT [5 0 86 133 1]
+ P 0 0 0 0
+PT [5 0 87 133 1]
+ P 0 0 0 0
+PT [5 0 88 133 1]
+ P 0 0 0 0
+PT [5 0 89 133 1]
+ P 0 0 0 0
+PT [5 0 90 133 1]
+ P 0 0 0 0
+PT [5 0 91 133 1]
+ P 0 0 0 0
+PT [5 0 92 133 1]
+ P 0 0 0 0
+PT [5 0 93 133 1]
+ P 0 0 0 0
+PT [5 0 94 133 1]
+ P 0 0 0 0
+PT [5 0 95 133 1]
+ P 0 0 0 0
+PT [5 0 96 133 1]
+ P 0 0 0 0
+PT [5 0 97 133 1]
+ P 0 0 0 0
+PT [5 0 98 133 1]
+ P 0 0 0 0
+PT [5 0 99 133 1]
+ P 0 0 0 0
+PT [5 0 100 133 1]
+ P 0 0 0 0
+PT [5 0 101 133 1]
+ P 0 0 0 0
+PT [5 0 102 133 1]
+ P 0 0 0 0
+PT [5 0 103 133 1]
+ P 0 0 0 0
+PT [5 0 104 133 1]
+ P 0 0 0 0
+PT [5 0 105 133 1]
+ P 0 0 0 0
+PT [5 0 106 133 1]
+ P 0 0 0 0
+PT [5 0 107 133 1]
+ P 0 0 0 0
+PT [5 0 108 133 1]
+ P 0 0 0 0
+PT [5 0 109 133 1]
+ P 0 0 0 0
+PT [5 0 110 133 1]
+ P 0 0 0 0
+PT [5 0 111 133 1]
+ P 0 0 0 0
+PT [5 0 112 133 1]
+ P 0 0 0 0
+PT [5 0 113 133 1]
+ P 0 0 0 0
+PT [5 0 114 133 1]
+ P 0 0 0 0
+PT [5 0 115 133 1]
+ P 0 0 0 0
+PT [5 0 116 133 1]
+ P 0 0 0 0
+PT [5 0 117 133 1]
+ P 0 0 0 0
+PT [5 0 118 133 1]
+ P 0 0 0 0
+PT [5 0 119 133 1]
+ P 0 0 0 0
+PT [5 0 120 133 1]
+ P 0 0 0 0
+PT [5 0 121 133 1]
+ P 0 0 0 0
+PT [5 0 122 133 1]
+ P 0 0 0 0
+PT [5 0 123 133 1]
+ P 0 0 0 0
+PT [5 0 124 133 1]
+ P 0 0 0 0
+PT [5 0 125 133 1]
+ P 0 0 0 0
+PT [5 0 126 133 1]
+ P 0 0 0 0
+PT [5 0 127 133 1]
+ P 0 0 0 0
+PT [5 0 128 133 1]
+ P 0 0 0 0
+PT [5 0 129 133 1]
+ P 0 0 0 0
+PT [5 0 130 133 1]
+ P 0 0 0 0
+PT [5 0 131 133 1]
+ P 0 0 0 0
+PT [5 0 132 133 1]
+ P 0 0 0 0
+PT [5 0 133 133 1]
+ P 0 0 0 0
+PT [5 0 134 133 1]
+ P 0 0 0 0
+PT [5 0 135 133 1]
+ P 0 0 0 0
+PT [5 0 136 133 1]
+ P 0 0 0 0
+PT [5 0 137 133 1]
+ P 0 0 0 0
+PT [5 0 138 133 1]
+ P 0 0 0 0
+PT [5 0 139 133 1]
+ P 0 0 0 0
+PT [5 0 140 133 1]
+ P 0 0 0 0
+PT [5 0 141 133 1]
+Warning: retx limit drop data
+ P 0 0 0 0
+PT [5 0 142 133 1]
+ P 0 0 0 0
+PT [5 0 143 133 1]
+ P 0 0 0 0
+PT [5 0 144 133 1]
+ P 0 0 0 0
+PT [5 0 145 133 1]
+ P 0 0 0 0
+PT [5 0 146 133 1]
+ P 0 0 0 0
+PT [5 0 147 133 1]
+ P 0 0 0 0
+PT [5 0 148 133 1]
+ P 0 0 0 0
+PT [5 0 149 133 1]
+ P 0 0 0 0
+PT [5 0 150 133 1]
+ P 0 0 0 0
+PT [5 0 151 133 1]
+ P 0 0 0 0
+PT [5 0 152 133 1]
+ P 0 0 0 0
+PT [5 0 153 133 1]
+ P 0 0 0 0
+PT [5 0 154 133 1]
+ P 0 0 0 0
+PT [5 0 155 133 1]
+ P 0 0 0 0
+PT [5 0 156 133 1]
+ P 0 0 0 0
+PT [5 0 157 133 1]
+ P 0 0 0 0
+PT [5 0 158 133 1]
+ P 0 0 0 0
+PT [5 0 159 133 1]
+ P 0 0 0 0
+PT [5 0 160 133 1]
+ P 0 0 0 0
+PT [5 0 161 133 1]
+ P 0 0 0 0
+PT [5 0 162 133 1]
+ P 0 0 0 0
+PT [5 0 163 133 1]
+ P 0 0 0 0
+PT [5 0 164 133 1]
+ P 0 0 0 0
+PT [5 0 165 133 1]
+ P 0 0 0 0
+PT [5 0 166 133 1]
+ P 0 0 0 0
+PT [5 0 167 133 1]
+ P 0 0 0 0
+PT [5 0 168 133 1]
+ P 0 0 0 0
+PT [5 0 169 133 1]
+ P 0 0 0 0
+PT [5 0 170 133 1]
+ P 0 0 0 0
+PT [5 0 171 133 1]
+ P 0 0 0 0
+PT [5 0 172 133 1]
+ P 0 0 0 0
+PT [5 0 173 133 1]
+ P 0 0 0 0
+PT [5 0 174 133 1]
+ P 0 0 0 0
+PT [5 0 175 133 1]
+ P 0 0 0 0
+PT [5 0 176 133 1]
+ P 0 0 0 0
+PT [5 0 177 133 1]
+ P 0 0 0 0
+PT [5 0 178 133 1]
+ P 0 0 0 0
+PT [5 0 179 133 1]
+ P 0 0 0 0
+PT [5 0 180 133 1]
+ P 0 0 0 0
+PT [5 0 181 133 1]
+ P 0 0 0 0
+PT [5 0 182 133 1]
+ P 0 0 0 0
+PT [5 0 183 133 1]
+ P 0 0 0 0
+PT [5 0 184 133 1]
+ P 0 0 0 0
+PT [5 0 185 133 1]
+ P 0 0 0 0
+PT [5 0 186 133 1]
+ P 0 0 0 0
+PT [5 0 187 133 1]
+ P 0 0 0 0
+PT [5 0 188 133 1]
+ P 0 0 0 0
+PT [5 0 189 133 1]
+ P 0 0 0 0
+PT [5 0 190 133 1]
+ P 0 0 0 0
+PT [5 0 191 133 1]
+ P 0 0 0 0
+PT [5 0 192 133 1]
+ P 0 0 0 0
+PT [5 0 193 133 1]
+ P 0 0 0 0
+PT [5 0 194 133 1]
+ P 0 0 0 0
+PT [5 0 195 133 1]
+ P 0 0 0 0
+PT [5 0 196 133 1]
+ P 0 0 0 0
+PT [5 0 197 133 1]
+ P 0 0 0 0
+PT [5 0 198 133 1]
+ P 0 0 0 0
+PT [5 0 199 133 1]
+ P 0 0 0 0
+PT [5 0 200 133 1]

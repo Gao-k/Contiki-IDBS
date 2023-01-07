@@ -1,0 +1,9 @@
+Starting (fixed data) ...
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_18_nfa_1s
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_18_nfa_3s
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_18_nfa_5s
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_18_nfa_7s
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_18_nfa_9s
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_10_nfa_1s
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_10_nfa_3s
+./logs_5_z1_2_micaz_new_4_datanum_0/pdc_10_nfa_5s

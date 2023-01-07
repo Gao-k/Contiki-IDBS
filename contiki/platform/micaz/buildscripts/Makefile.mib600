@@ -1,0 +1,4 @@
+%.upload: %.srec
+	uisp -dprog=stk500 -dhost=$(HOST) -dpart=ATmega128 --wr_fuse_h=0xd1 --wr_fuse_e=ff --erase --upload if=$< --verify
+erase:
+	uisp -dprog=stk500 -dhost=$(HOST) -dpart=ATmega128 --wr_fuse_h=0xd9 --wr_fuse_e=ff --erase        

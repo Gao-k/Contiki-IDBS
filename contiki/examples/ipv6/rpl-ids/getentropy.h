@@ -1,0 +1,1 @@
+float GetEntropy(int a, int b);

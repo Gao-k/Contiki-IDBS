@@ -1,0 +1,1468 @@
+Rime started with address 158.170
+MAC 9e:aa:00:00:00:00:00:00
+
+************************************************
+RTIMER_SECOND = 28800. F_CPU=7372800.
+RTIMER_ARCH_PRESCALER=256.
+DURSLOT = 5274.(0.1831 s).
+DURSLEEP = 100206.
+DURCYCLE = 105480 .(3.6624 s).
+MAX_CLOCK_DRIFT = WAKEUP_ADVANCE_TIME = 288 (0.0033 s).
+PERIODIC_BCAST_CYCLES_SENSOR = 34471939.
+PERIODIC_BCAST_CYCLES_SINK = 38207491.
+MAX_CYCLE_COUNTER = 24576.
+MAX_COUNT_NO_RTS_CTS = 65535.
+MAX_CHILD_NUM = 10.
+MAX_TRY_TO_FIND_PARENT = 3.
+
+**********Below is Related Settings**********
+PRIMAC_CONF_COMPOWER = 1.
+PRIMAC_CONF_COMPOWER_SUPPORT = 1.
+SF = 18.
+PRI_SYNC_SUPPORT = 1.
+RANDOM_DRIFT_IN_COOJA_SUPPORT = 0.
+ADCSC_SUPPORT = 1.
+DATA_TX_SUPPORT = 1.
+START_GRADE = 60.
+CYCLES_PER_PACKET = 3.
+DATA_INTERVAL = 9.
+RETX_LIMIT = 6.
+TOTAL_DATA_NUM = 50.
+MAX_DATA_QUEUE_BUFS = 10.
+PROC_GRADE_BASED_ON_ADDR_SUPPORT = 1.
+NODES_NUM_PER_GRADE = 2.
+ADDRESS_FREE_SUPPORT = 0.
+IS_COOJA_SIM = 0.
+CROSS_PLATFORM_SUPPORT = 1.
+************************************************
+
+My address is 158.170.
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 26
+Contiki-3.x-2125-g5d67a61 started. Node id 0
+Hello, world
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+ P 0 0 0 0
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 87 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 6 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+ P 0 0 0 0
+PT [5 0 6 0 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 70 1]
+ P 0 0 0 0
+PT [5 0 6 76 1]
+ P 0 0 0 0
+PT [5 0 7 76 1]
+ P 0 0 0 0
+PT [5 0 8 76 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+ P 0 0 0 0
+PT [5 0 2 88 1]
+ P 0 0 0 0
+PT [5 0 3 88 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 18 1]
+ P 0 0 0 0
+PT [5 0 3 18 1]
+ P 0 0 0 0
+PT [5 0 4 18 1]
+ P 0 0 0 0
+PT [5 0 5 18 1]
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+ P 0 0 0 0
+PT [5 0 2 89 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 34 1]
+ P 0 0 0 0
+PT [5 0 4 34 1]
+ P 0 0 0 0
+PT [5 0 5 70 1]
+ P 0 0 0 0
+PT [5 0 6 70 1]
+ P 0 0 0 0
+PT [5 0 7 70 1]
+ P 0 0 0 0
+PT [5 0 8 70 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 70 1]
+ P 0 0 0 0
+PT [5 0 6 70 1]
+ P 0 0 0 0
+PT [5 0 7 70 1]
+ P 0 0 0 0
+PT [5 0 8 70 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 6 53 1]
+ P 0 0 0 0
+PT [5 0 7 53 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 18 1]
+ P 0 0 0 0
+PT [5 0 3 35 1]
+ P 0 0 0 0
+PT [5 0 4 35 1]
+ P 0 0 0 0
+PT [5 0 5 35 1]
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 35 1]
+ P 0 0 0 0
+PT [5 0 4 35 1]
+ P 0 0 0 0
+PT [5 0 5 71 1]
+ P 0 0 0 0
+PT [5 0 6 71 1]
+ P 0 0 0 0
+PT [5 0 7 71 1]
+ P 0 0 0 0
+PT [5 0 8 71 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 34 1]
+ P 0 0 0 0
+PT [5 0 4 34 1]
+ P 0 0 0 0
+PT [5 0 5 70 1]
+ P 0 0 0 0
+PT [5 0 6 70 1]
+ P 0 0 0 0
+PT [5 0 7 70 1]
+ P 0 0 0 0
+PT [5 0 8 70 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 6 53 1]
+ P 0 0 0 0
+PT [5 0 7 53 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 36 1]
+ P 0 0 0 0
+PT [5 0 4 36 1]
+ P 0 0 0 0
+PT [5 0 5 36 1]
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 35 1]
+ P 0 0 0 0
+PT [5 0 4 35 1]
+ P 0 0 0 0
+PT [5 0 5 35 1]
+ P 0 0 0 0
+PT [5 0 6 35 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+ P 0 0 0 0
+PT [5 0 2 89 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 18 1]
+ P 0 0 0 0
+PT [5 0 3 18 1]
+ P 0 0 0 0
+PT [5 0 4 18 1]
+ P 0 0 0 0
+PT [5 0 5 70 1]
+ P 0 0 0 0
+PT [5 0 6 70 1]
+ P 0 0 0 0
+PT [5 0 7 70 1]
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 53 1]
+ P 0 0 0 0
+PT [5 0 5 53 1]
+ P 0 0 0 0
+PT [5 0 6 53 1]
+ P 0 0 0 0
+PT [5 0 7 53 1]
+ P 0 0 0 0
+PT [5 0 8 53 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 87 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 -57 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 -39 1]
+ P 0 0 0 0
+PT [5 0 2 -39 1]
+ P 0 0 0 0
+PT [5 0 3 -39 1]
+ P 0 0 0 0
+PT [5 0 4 -39 1]
+ P 0 0 0 0
+PT [5 0 5 -39 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 48 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 67 1]
+ P 0 0 0 0
+PT [5 0 2 67 1]
+ P 0 0 0 0
+PT [5 0 3 67 1]
+ P 0 0 0 0
+PT [5 0 4 67 1]
+ P 0 0 0 0
+PT [5 0 5 67 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 87 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 2 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 3 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 90 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 6 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 7 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 87 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 2 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 6 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 86 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 86 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 6 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 87 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 -57 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 -40 1]
+ P 0 0 0 0
+PT [5 0 2 -40 1]
+ P 0 0 0 0
+PT [5 0 3 -40 1]
+ P 0 0 0 0
+PT [5 0 4 -40 1]
+ P 0 0 0 0
+PT [5 0 5 -40 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 48 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 48 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 2 84 1]
+ P 0 0 0 0
+PT [5 0 3 84 1]
+ P 0 0 0 0
+PT [5 0 4 84 1]
+ P 0 0 0 0
+PT [5 0 5 84 1]
+ P 0 0 0 0
+PT [5 0 6 84 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 2 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 6 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 91 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 88 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 0 89 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 1 0 1]
+ P 0 0 0 0
+PT [5 0 2 0 1]
+ P 0 0 0 0
+PT [5 0 3 0 1]
+ P 0 0 0 0
+PT [5 0 4 0 1]
+ P 0 0 0 0
+PT [5 0 5 0 1]
+EMPTY QUEUE
+ P 0 0 0 0
+PT [5 0 6 0 1]

@@ -1,0 +1,28 @@
+1. 时间戳命令：
+
+用：
+make login MOTES=/dev/ttyUSB0 | while IFS= read -r line; do printf  '%s %s\n'  "$(date '+%s %N')"  "$line"; done
+
+注释： %N就是纳秒数，%s是1970以来的秒数
+1秒 等于 10^9 纳秒
+command | while IFS= read -r line; do printf '[%s] %s\n' "$(date '+%Y-%m-%d %H:%M:%S')" "$line"; done
+
+
+2. 下载代码命令：
+装载：
+make hello-world.upload && make z1-reset && make login MOTES=/dev/ttyUSB0
+
+登录：
+make z1-reset MOTES=/dev/ttyUSB0 && make login MOTES=/dev/ttyUSB0
+
+make login MOTES=/dev/ttyUSB0
+
+
+
+3. 给Z1烧地址命令：
+in "contiki/examples/z1", run (use MOTES to distinguish different motes): // 不能烧成0
+make clean && make burn-nodeid.upload nodeid=1 nodemac=1 MOTES=/dev/ttyUSB0 && make z1-reset && make login MOTES=/dev/ttyUSB0
+
+make clean && make burn-nodeid.upload nodeid=6 nodemac=6 MOTES=/dev/ttyUSB2 && make z1-reset && make login MOTES=/dev/ttyUSB2
+
+make clean && make burn-nodeid.upload nodeid=7 nodemac=7 MOTES=/dev/ttyUSB3 && make z1-reset && make login MOTES=/dev/ttyUSB3

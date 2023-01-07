@@ -1,0 +1,389 @@
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+my grade:2.
+rcv cts: unexptected. 3The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+Rime started with address 0.0
+MAC 00:00:00:00:00:00:00:00
+
+************************************************
+RTIMER_SECOND = 28800. F_CPU=7372800.
+PRISLOT = 3597 (0.1248 s).
+DURSLEEP = 53955.
+DURCYCLE = 57552 (1.9983 s).
+MAX_CLOCK_DRIFT = WAKEUP_ADVANCE_TIME = 288 (0.0100 s).
+MAX_CYCLE_COUNTER = 73728.
+DEFAULT_CYCLE_COUNTER_THRESHOLD = 2.
+************************************************
+
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 0
+Contiki-2.6-2103-g6ac939b started. Node id 0
+Hello, world
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+my grade:2.
+rcv cts: unexptected. 3The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+Rime started with address 0.0
+MAC 00:00:00:00:00:00:00:00
+
+************************************************
+RTIMER_SECOND = 28800. F_CPU=7372800.
+PRISLOT = 3597 (0.1248 s).
+DURSLEEP = 53955.
+DURCYCLE = 57552 (1.9983 s).
+MAX_CLOCK_DRIFT = WAKEUP_ADVANCE_TIME = 288 (0.0100 s).
+MAX_CYCLE_COUNTER = 73728.
+DEFAULT_CYCLE_COUNTER_THRESHOLD = 2.
+************************************************
+
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 0
+Contiki-2.6-2103-g6ac939b started. Node id 0
+Hello, world
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+my grade:2.
+rcv cts: unexptected. 3The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+Rime started with address 0.0
+MAC 00:00:00:00:00:00:00:00
+
+************************************************
+RTIMER_SECOND = 28800. F_CPU=7372800.
+PRISLOT = 3597 (0.1248 s).
+DURSLEEP = 53955.
+DURCYCLE = 57552 (1.9983 s).
+MAX_CLOCK_DRIFT = WAKEUP_ADVANCE_TIME = 288 (0.0100 s).
+MAX_CYCLE_COUNTER = 73728.
+DEFAULT_CYCLE_COUNTER_THRESHOLD = 2.
+************************************************
+
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 0
+Contiki-2.6-2103-g6ac939b started. Node id 0
+Hello, world
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+my grade:2.
+rcv cts: unexptected. 3The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+Rime started with address 0.0
+MAC 00:00:00:00:00:00:00:00
+
+************************************************
+RTIMER_SECOND = 28800. F_CPU=7372800.
+PRISLOT = 3597 (0.1248 s).
+DURSLEEP = 53955.
+DURCYCLE = 57552 (1.9983 s).
+MAX_CLOCK_DRIFT = WAKEUP_ADVANCE_TIME = 288 (0.0100 s).
+MAX_CYCLE_COUNTER = 73728.
+DEFAULT_CYCLE_COUNTER_THRESHOLD = 2.
+************************************************
+
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 0
+Contiki-2.6-2103-g6ac939b started. Node id 0
+Hello, world
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+my grade:2.
+rcv cts: unexptected. 3The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+The Receiver List is empty.
+The Sender List is empty.
+periodic_rts_not_for_data_flag: 1. clock_drift_rts_not_for_data_flag: 0.
+The Receiver List is empty.
+The Sender List is empty.
+Rime started with address 0.0
+MAC 00:00:00:00:00:00:00:00
+
+************************************************
+RTIMER_SECOND = 28800. F_CPU=7372800.
+PRISLOT = 3597 (0.1248 s).
+DURSLEEP = 53955.
+DURCYCLE = 57552 (1.9983 s).
+MAX_CLOCK_DRIFT = WAKEUP_ADVANCE_TIME = 288 (0.0100 s).
+MAX_CYCLE_COUNTER = 73728.
+DEFAULT_CYCLE_COUNTER_THRESHOLD = 2.
+************************************************
+
+nullmac PRIMAC, channel check rate 8 Hz, radio channel 0
+Contiki-2.6-2103-g6ac939b started. Node id 0
+Hello, world
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv cts: unexptected. 3rcv rts: receive RTS but not in 'R' or 'T' state: 3.
+rcv rts: receive RTS but not in 'R' or 'T' state: 3.

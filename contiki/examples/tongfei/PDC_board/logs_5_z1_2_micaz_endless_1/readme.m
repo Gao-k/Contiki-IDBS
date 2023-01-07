@@ -1,0 +1,1 @@
+It takes 40 minutes for each experiment in this folder: logs_5_z1_2_micaz_endless_1.

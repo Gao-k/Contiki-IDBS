@@ -1,0 +1,9 @@
+#ifndef __PROJECT_CONF_H__
+#define __PROJECT_CONF_H__
+
+#undef CONTIKIMAC_CONF_WITH_PHASE_OPTIMIZATION
+#define CONTIKIMAC_CONF_WITH_PHASE_OPTIMIZATION 1   /*modified by fei tong from 0 to 1*/
+
+#undef	CC2420_CONF_AUTOACK 
+#define CC2420_CONF_AUTOACK 	1
+#endif /*__PROJECT_CONF_H__*/
